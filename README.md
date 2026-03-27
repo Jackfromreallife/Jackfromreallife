@@ -81,23 +81,6 @@ My mission is simple: **help SMEs digitalise faster and smarter**, by replacing 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jackfromreallife&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfromreallife&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jackfromreallife&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌏 Based in Singapore · Building for ASEAN SMEs
 
 <div align="center">
